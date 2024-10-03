@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/DeathTotem.main.iml" filepath="$PROJECT_DIR$/.idea/modules/DeathTotem.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.nanshang.DeathTotem.main.iml" filepath="$PROJECT_DIR$/.idea/modules/org.nanshang.DeathTotem.main.iml" />
     </modules>
   </component>
 </project>

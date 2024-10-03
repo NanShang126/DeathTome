@@ -1,0 +1,8 @@
+# 填写OraxenID的物品ID,作用于死亡图腾
+OraxenID: "test:death_totem"
+# 玩家死亡时是否保留经验
+KeepExp: true
+# 玩家死亡时是否播放动画
+PlayAnimation: true
+# 如果播放动画,那么动画ID
+AnimationID: "test:death_totem_animation"
